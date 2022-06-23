@@ -12,10 +12,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-166 | [A - Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A) | [GNU C++17](./codeforces/855/A.cpp) | `brute force` `implementation` `strings` `*800` | Jul/02/2022 21:18 | 
-165 | [C - Boxes Packing](https://codeforces.com/contest/903/problem/C) | [GNU C++17](./codeforces/903/C.cpp) | `greedy` `*1200` | Jul/01/2022 22:43 | 
-164 | [A - XOR Mixup](https://codeforces.com/contest/1698/problem/A) | [GNU C++17](./codeforces/1698/A.cpp) | `bitmasks` `brute force` | Jun/28/2022 21:38 | 
-163 | [A - Pangram](https://codeforces.com/contest/520/problem/A) | [GNU C++17](./codeforces/520/A.cpp) | `implementation` `strings` `*800` | Jun/26/2022 22:23 | 
+167 | [A - Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A) | [GNU C++17](./codeforces/855/A.cpp) | `brute force` `implementation` `strings` `*800` | Jul/02/2022 21:18 | 
+166 | [C - Boxes Packing](https://codeforces.com/contest/903/problem/C) | [GNU C++17](./codeforces/903/C.cpp) | `greedy` `*1200` | Jul/01/2022 22:43 | 
+165 | [A - XOR Mixup](https://codeforces.com/contest/1698/problem/A) | [GNU C++17](./codeforces/1698/A.cpp) | `bitmasks` `brute force` | Jun/28/2022 21:38 | 
+164 | [A - Pangram](https://codeforces.com/contest/520/problem/A) | [GNU C++17](./codeforces/520/A.cpp) | `implementation` `strings` `*800` | Jun/26/2022 22:23 | 
+163 | [A - Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | [GNU C++17](./codeforces/1328/A.cpp) | `math` `*800` | Jun/23/2022 13:43 | 
 162 | [A - Subrectangle Guess](https://codeforces.com/contest/1695/problem/A) | [GNU C++17](./codeforces/1695/A.cpp) | `games` | Jun/22/2022 22:12 | 
 161 | [A - Log Chopping](https://codeforces.com/contest/1672/problem/A) | [GNU C++17](./codeforces/1672/A.cpp) | `games` `implementation` `math` `*800` | Jun/21/2022 23:53 | 
 160 | [A - String Task](https://codeforces.com/contest/118/problem/A) | [GNU C++17](./codeforces/118/A.cpp) | `implementation` `strings` `*1000` | Jun/20/2022 00:25 | 
