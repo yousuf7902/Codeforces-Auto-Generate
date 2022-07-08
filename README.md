@@ -12,18 +12,19 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-178 | [B - Mark the Dust Sweeper](https://codeforces.com/contest/1705/problem/B) | [GNU C++17](./codeforces/1705/B.cpp) | `constructive algorithms` `greedy` `implementation` | Jul/16/2022 12:38 | 
-177 | [A - Mark the Photographer](https://codeforces.com/contest/1705/problem/A) | [GNU C++17](./codeforces/1705/A.cpp) | `greedy` `sortings` | Jul/15/2022 21:04 | 
-176 | [A - Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | [GNU C++17](./codeforces/313/A.cpp) | `implementation` `number theory` `*900` | Jul/15/2022 16:28 | 
-175 | [A - Dragons](https://codeforces.com/contest/230/problem/A) | [GNU C++17](./codeforces/230/A.cpp) | `greedy` `sortings` `*1000` | Jul/15/2022 14:01 | 
-174 | [A - Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | [GNU C++17](./codeforces/525/A.cpp) | `greedy` `hashing` `strings` `*1100` | Jul/14/2022 18:32 | 
-173 | [A - Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A) | [GNU C++17](./codeforces/855/A.cpp) | `brute force` `implementation` `strings` `*800` | Jul/13/2022 13:33 | 
-172 | [C - Cypher](https://codeforces.com/contest/1703/problem/C) | [GNU C++17](./codeforces/1703/C.cpp) | `brute force` `implementation` `strings` | Jul/12/2022 21:35 | 
-171 | [B - ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | [GNU C++17](./codeforces/1703/B.cpp) | `data structures` `implementation` | Jul/12/2022 20:48 | 
-170 | [A - YES or YES?](https://codeforces.com/contest/1703/problem/A) | [GNU C++17](./codeforces/1703/A.cpp) | `brute force` `implementation` `strings` | Jul/12/2022 20:41 | 
-169 | [B - Polycarp Writes a String from Memory](https://codeforces.com/contest/1702/problem/B) | [GNU C++17](./codeforces/1702/B.cpp) | `greedy` `*800` | Jul/12/2022 14:57 | 
-168 | [A - Round Down the Price](https://codeforces.com/contest/1702/problem/A) | [GNU C++17](./codeforces/1702/A.cpp) | `constructive algorithms` `*800` | Jul/12/2022 13:17 | 
-167 | [B - Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | [GNU C++17](./codeforces/339/B.cpp) | `implementation` `*1000` | Jul/09/2022 16:22 | 
+179 | [B - Mark the Dust Sweeper](https://codeforces.com/contest/1705/problem/B) | [GNU C++17](./codeforces/1705/B.cpp) | `constructive algorithms` `greedy` `implementation` | Jul/16/2022 12:38 | 
+178 | [A - Mark the Photographer](https://codeforces.com/contest/1705/problem/A) | [GNU C++17](./codeforces/1705/A.cpp) | `greedy` `sortings` | Jul/15/2022 21:04 | 
+177 | [A - Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | [GNU C++17](./codeforces/313/A.cpp) | `implementation` `number theory` `*900` | Jul/15/2022 16:28 | 
+176 | [A - Dragons](https://codeforces.com/contest/230/problem/A) | [GNU C++17](./codeforces/230/A.cpp) | `greedy` `sortings` `*1000` | Jul/15/2022 14:01 | 
+175 | [A - Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | [GNU C++17](./codeforces/525/A.cpp) | `greedy` `hashing` `strings` `*1100` | Jul/14/2022 18:32 | 
+174 | [A - Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A) | [GNU C++17](./codeforces/855/A.cpp) | `brute force` `implementation` `strings` `*800` | Jul/13/2022 13:33 | 
+173 | [C - Cypher](https://codeforces.com/contest/1703/problem/C) | [GNU C++17](./codeforces/1703/C.cpp) | `brute force` `implementation` `strings` | Jul/12/2022 21:35 | 
+172 | [B - ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | [GNU C++17](./codeforces/1703/B.cpp) | `data structures` `implementation` | Jul/12/2022 20:48 | 
+171 | [A - YES or YES?](https://codeforces.com/contest/1703/problem/A) | [GNU C++17](./codeforces/1703/A.cpp) | `brute force` `implementation` `strings` | Jul/12/2022 20:41 | 
+170 | [B - Polycarp Writes a String from Memory](https://codeforces.com/contest/1702/problem/B) | [GNU C++17](./codeforces/1702/B.cpp) | `greedy` `*800` | Jul/12/2022 14:57 | 
+169 | [A - Round Down the Price](https://codeforces.com/contest/1702/problem/A) | [GNU C++17](./codeforces/1702/A.cpp) | `constructive algorithms` `*800` | Jul/12/2022 13:17 | 
+168 | [B - Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | [GNU C++17](./codeforces/339/B.cpp) | `implementation` `*1000` | Jul/09/2022 16:22 | 
+167 | [B - Ehab Is an Odd Person](https://codeforces.com/contest/1174/problem/B) | [GNU C++17](./codeforces/1174/B.cpp) | `sortings` `*1200` | Jul/08/2022 11:44 | 
 166 | [C - Boxes Packing](https://codeforces.com/contest/903/problem/C) | [GNU C++17](./codeforces/903/C.cpp) | `greedy` `*1200` | Jul/01/2022 22:43 | 
 165 | [A - XOR Mixup](https://codeforces.com/contest/1698/problem/A) | [GNU C++17](./codeforces/1698/A.cpp) | `bitmasks` `brute force` | Jun/28/2022 21:38 | 
 164 | [A - Pangram](https://codeforces.com/contest/520/problem/A) | [GNU C++17](./codeforces/520/A.cpp) | `implementation` `strings` `*800` | Jun/26/2022 22:23 | 
